@@ -1,4 +1,3 @@
-{{
 {
   "name": "n8n-monorepo",
   "version": "1.118.0",
@@ -21,7 +20,7 @@
     "@n8n/nodes-wehook": "1.0.0",
     "@types/node": "^20.17.50",
     "axios": "1.12.0",
-    "typescript": "^5.0.4",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "typescript": "^5.0.4"
   }
 }
